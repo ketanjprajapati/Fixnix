@@ -1,0 +1,18 @@
+{
+  "name": "robuzta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "start": "nodemon run server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "twilio": "^4.23.0",
+    "select2": "~4.0"
+  }
+}
